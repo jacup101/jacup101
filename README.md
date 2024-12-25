@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Joshua Pulido, aka @jacup101
+- 💻 Software Dev @ Amazon Prime
 - 👀 I’m interested in game development, Mexican food, and competetive gaming :D
 - 🌱 I’m currently learning C++ and React.JS
 - 💞️ I’m looking to collaborate on anything :)
